@@ -1,0 +1,6 @@
+# ignore models and .venv
+.venv/
+models/
+input_videos/
+output_videos/
+runs/
